@@ -3170,6 +3170,151 @@
     		orignal_url: "http://runeberg.org/hosthorn/6_40.html",
     		year: 1927,
     		slug: "erik_axel_karlfeldt__vinterorgel"
+    	},
+    	{
+    		title: "flaggprydd sång",
+    		text: "morgonen vaknar blåögd och vinden öppnar fönstret för himlen \nbland vita moln och fladdrande gardiner\nutanför kvittrar fåglarna pärlband i buskarna som knoppas\noch regndropparna glittrar som pärlor i det gröna gräset\nmedan solskenet vältaligt berömmer de rodnande blommorna..\n\noch trädenas händer välsignar stilla dagsljuset som lånar\nallting lugn och skönhet medan tysta svalor jagar \nevighetens insekt i den osynliga luften och solen spelar och\nsjunger guld! guld! och hela den klara blå himlen",
+    		sections: [
+    			[
+    				"morgonen vaknar blåögd och vinden öppnar fönstret för himlen ",
+    				"bland vita moln och fladdrande gardiner",
+    				"utanför kvittrar fåglarna pärlband i buskarna som knoppas",
+    				"och regndropparna glittrar som pärlor i det gröna gräset",
+    				"medan solskenet vältaligt berömmer de rodnande blommorna.."
+    			],
+    			[
+    				"och trädenas händer välsignar stilla dagsljuset som lånar",
+    				"allting lugn och skönhet medan tysta svalor jagar ",
+    				"evighetens insekt i den osynliga luften och solen spelar och",
+    				"sjunger guld! guld! och hela den klara blå himlen"
+    			]
+    		],
+    		author: "Gunnar Ekelof",
+    		work: "Sent på jorden",
+    		orignal_url: "http://www.gunnarekelof.se/ekelof/sent-pa-jorden/",
+    		year: "1932",
+    		slug: "gunnar_ekelof__flaggprydd_sang"
+    	},
+    	{
+    		title: "böljeslag",
+    		text: "blå är mina önskningar, blå är himlens och havets önskningar\nför hårt är människornas liv för mig, jag trivs bland\n\nmusslorna och tången\n\nmina stränder är havets halsband och havet andas lugnt och\nrasslar sakta med alla sina kiselstenar..\ni molnena spelar en osynlig stråkkvartett med färger och\n\nsolen dör som en svan av ljus\n\nkanske någon ger mig fåglar att flyga med i solens röda\nkölvatten där min fosforstjärna darrar\nom jag väntar kanske någon förvandlar mina önskningar till\nraketer och låter dem explodera bredvid ett moln långt\n\nborta\n\ndå skulle blåa stjärnor sakta regna ner i den röda kvällen..\nblå är mina önskningars stjärnor, för hårt är människornas\n\nliv för mig",
+    		sections: [
+    			[
+    				"blå är mina önskningar, blå är himlens och havets önskningar",
+    				"för hårt är människornas liv för mig, jag trivs bland"
+    			],
+    			[
+    				"musslorna och tången"
+    			],
+    			[
+    				"mina stränder är havets halsband och havet andas lugnt och",
+    				"rasslar sakta med alla sina kiselstenar..",
+    				"i molnena spelar en osynlig stråkkvartett med färger och"
+    			],
+    			[
+    				"solen dör som en svan av ljus"
+    			],
+    			[
+    				"kanske någon ger mig fåglar att flyga med i solens röda",
+    				"kölvatten där min fosforstjärna darrar",
+    				"om jag väntar kanske någon förvandlar mina önskningar till",
+    				"raketer och låter dem explodera bredvid ett moln långt"
+    			],
+    			[
+    				"borta"
+    			],
+    			[
+    				"då skulle blåa stjärnor sakta regna ner i den röda kvällen..",
+    				"blå är mina önskningars stjärnor, för hårt är människornas"
+    			],
+    			[
+    				"liv för mig"
+    			]
+    		],
+    		author: "Gunnar Ekelof",
+    		work: "Sent på jorden",
+    		orignal_url: "http://www.gunnarekelof.se/ekelof/sent-pa-jorden/",
+    		year: "1932",
+    		slug: "gunnar_ekelof__boljeslag"
+    	},
+    	{
+    		title: "sonatform denaturerad prosa",
+    		text: "krossa bokstävlarna mellan tänderna gäspa vokalerelden brinner i helvete kräkas och spotta \nnu eller aldrig jag\noch svindel du eller aldrig svindel nu eller aldrig.\n\nvi börjar om\n\nkrossa bokstävlarna makadam och tänderna gäspar\n\nvokaler, svetten rinner i helvete jag dör i mina vindlingar\nkräkas nu eller aldrig svindel jag och du. jag och han hon det.\nvi börjar om. jag och han hon det. vi börjar om. jag och han\nhon det. vi börjar om. jag och han hon det. skrik och rop:\ndet går fort vilken rasande fart i luft och helvete i mina\nvindlingar som vansinnet i luften svindel, skrik och rop: \nhan faller han har fallit. det var bra det gick fort vilken rasande fart\ni luft och helvete i mina vindlingar kräkas nu eller aldrig\nsvindel jag och du. jag och han hon det. \n\nvi börjar om. jag och han hon det. vi börjar om. jag och han hon det. \nvi börjar om. jag och han hon det vi börjar om krossa bokstävlarna mellan tänderna gäspa vokaler, el-\n\nden brinner i helvete kräkas och spotta nu eller aldrig jag och\nsvindel du eller aldrig svindel nu eller aldrig.",
+    		sections: [
+    			[
+    				"krossa bokstävlarna mellan tänderna gäspa vokalerelden brinner i helvete kräkas och spotta ",
+    				"nu eller aldrig jag",
+    				"och svindel du eller aldrig svindel nu eller aldrig."
+    			],
+    			[
+    				"vi börjar om"
+    			],
+    			[
+    				"krossa bokstävlarna makadam och tänderna gäspar"
+    			],
+    			[
+    				"vokaler, svetten rinner i helvete jag dör i mina vindlingar",
+    				"kräkas nu eller aldrig svindel jag och du. jag och han hon det.",
+    				"vi börjar om. jag och han hon det. vi börjar om. jag och han",
+    				"hon det. vi börjar om. jag och han hon det. skrik och rop:",
+    				"det går fort vilken rasande fart i luft och helvete i mina",
+    				"vindlingar som vansinnet i luften svindel, skrik och rop: ",
+    				"han faller han har fallit. det var bra det gick fort vilken rasande fart",
+    				"i luft och helvete i mina vindlingar kräkas nu eller aldrig",
+    				"svindel jag och du. jag och han hon det. "
+    			],
+    			[
+    				"vi börjar om. jag och han hon det. vi börjar om. jag och han hon det. ",
+    				"vi börjar om. jag och han hon det vi börjar om krossa bokstävlarna mellan tänderna gäspa vokaler, el-"
+    			],
+    			[
+    				"den brinner i helvete kräkas och spotta nu eller aldrig jag och",
+    				"svindel du eller aldrig svindel nu eller aldrig."
+    			]
+    		],
+    		author: "Gunnar Ekelof",
+    		work: "Sent på jorden",
+    		orignal_url: "http://www.gunnarekelof.se/ekelof/sent-pa-jorden/",
+    		year: "1932",
+    		slug: "gunnar_ekelof__sonatform_denaturerad_prosa"
+    	},
+    	{
+    		title: "apoteos",
+    		text: "ge mig gift att dö eller drömmar att leva\n\naskesen skall sluta snart i månens portar som solen redan\nvälsignat\n\noch fastän oförmälda med verkligheten skall den dödes\ndrömmar sluta beklaga sitt öde.\n\nfader åt din himmel återlämnar jag mitt öga som en blå\ndroppe i havet\n\nden svarta världen böjer sig inte mer för palmer och\npsalmsång\n\nmen tusenåriga vindar kammar trädenas utslagna hår\nkällor släcker den osynlige vandrarens törst\nfyra väderstreck står tomma omkring båren\noch änglarnas musslin förvandlas\ngenom ett trollslag\ntill intet",
+    		sections: [
+    			[
+    				"ge mig gift att dö eller drömmar att leva"
+    			],
+    			[
+    				"askesen skall sluta snart i månens portar som solen redan",
+    				"välsignat"
+    			],
+    			[
+    				"och fastän oförmälda med verkligheten skall den dödes",
+    				"drömmar sluta beklaga sitt öde."
+    			],
+    			[
+    				"fader åt din himmel återlämnar jag mitt öga som en blå",
+    				"droppe i havet"
+    			],
+    			[
+    				"den svarta världen böjer sig inte mer för palmer och",
+    				"psalmsång"
+    			],
+    			[
+    				"men tusenåriga vindar kammar trädenas utslagna hår",
+    				"källor släcker den osynlige vandrarens törst",
+    				"fyra väderstreck står tomma omkring båren",
+    				"och änglarnas musslin förvandlas",
+    				"genom ett trollslag",
+    				"till intet"
+    			]
+    		],
+    		author: "Gunnar Ekelof",
+    		work: "Sent på jorden",
+    		orignal_url: "http://www.gunnarekelof.se/ekelof/sent-pa-jorden/",
+    		year: "1932",
+    		slug: "gunnar_ekelof__apoteos"
     	}
     ];
 
