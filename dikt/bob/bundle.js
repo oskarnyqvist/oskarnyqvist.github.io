@@ -41621,7 +41621,7 @@
     			}
 
     			t = space();
-    			attr_dev(section, "class", "svelte-kedd0o");
+    			attr_dev(section, "class", "svelte-ew1hap");
     			add_location(section, file, 33, 4, 1144);
     		},
     		m: function mount(target, anchor) {
@@ -41686,7 +41686,7 @@
     			a = element("a");
     			t = text$1(t_value);
     			attr_dev(a, "href", "?slug=" + /*d*/ ctx[4].slug);
-    			attr_dev(a, "class", "svelte-kedd0o");
+    			attr_dev(a, "class", "svelte-ew1hap");
     			add_location(a, file, 42, 4, 1290);
     		},
     		m: function mount(target, anchor) {
@@ -41806,13 +41806,13 @@
     			add_location(div1, file, 28, 4, 943);
     			set_style(div2, "text-align", "right");
     			add_location(div2, file, 29, 4, 995);
-    			attr_dev(h1, "class", "animation-target svelte-kedd0o");
+    			attr_dev(h1, "class", "animation-target svelte-ew1hap");
     			add_location(h1, file, 30, 4, 1049);
-    			attr_dev(header, "class", "svelte-kedd0o");
+    			attr_dev(header, "class", "svelte-ew1hap");
     			add_location(header, file, 26, 2, 878);
-    			attr_dev(article, "class", "svelte-kedd0o");
+    			attr_dev(article, "class", "svelte-ew1hap");
     			add_location(article, file, 25, 0, 866);
-    			attr_dev(aside, "class", "svelte-kedd0o");
+    			attr_dev(aside, "class", "svelte-ew1hap");
     			add_location(aside, file, 40, 0, 1257);
     		},
     		l: function claim(nodes) {
